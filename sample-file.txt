@@ -1,0 +1,3 @@
+This is a sample file.
+This file has 3 lines inside.
+For testing purposes only.

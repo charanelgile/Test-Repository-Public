@@ -1,0 +1,2 @@
+git init - Convert a selected folder into a git repository
+         - Create a git repository from a selected folder
